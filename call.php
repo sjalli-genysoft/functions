@@ -8,7 +8,7 @@
 <body>
     <?php
     function mymsg() {
-        echo "Hello world!";
+        echo "Hi world!!!";
       }
       
       mymsg();
